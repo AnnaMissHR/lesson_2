@@ -1,0 +1,6 @@
+print('bla bla')
+print(24)
+print('24')
+print(24*24)
+print(2**100)
+print(11%3)
